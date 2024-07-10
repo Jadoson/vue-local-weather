@@ -1,5 +1,6 @@
 # vue-local-weather
 
+Check it on GitHub Pages: https://jadoson.github.io/vue-local-weather/
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
